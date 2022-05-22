@@ -17,7 +17,7 @@ const chart = {
   options: {
     chart: {
       type: 'candlestick',
-      height: 350
+      height: 340
     },
     title: {
       text: 'CandleStick Chart',
